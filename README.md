@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**JoaoHeber1A/JoaoHeber1A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Boas vindas ao meu perfil 💚💙🧡
+Meu nome é João Heber(pode me chamar apenas de Heber ou como preferir)
 
-Here are some ideas to get you started:
+Estou estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐈‍⬛Estou me desenvolvendo na linguagem JavaScript(extremamente lento)
+
+🐈Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+🐱Não sei como fazer muuuuuitas coisas, mas todos vivemos para aprender 💜🌆
+
+## Você pode entrar em contato comigo 📫
+joao.diovar@escola.pr.gov.br
